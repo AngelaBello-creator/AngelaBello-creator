@@ -26,7 +26,7 @@ Aplicación full-stack que permite subir audios geolocalizados y visualizarlos e
 
 ## Tecnologías
 
-### rontend
+### Frontend
 - React + Vite  
 - TailwindCSS + **Sass**
 - Leaflet (mapas)
