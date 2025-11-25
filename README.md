@@ -1,4 +1,4 @@
-# 👩‍💻 Ángela Bello — SoundMap BCN
+# ¡Hola! Soy Ángela Bello 
 
 Junior Full-Stack Developer enfocada en crear aplicaciones limpias, escalables y con buena experiencia de usuario. Trabajo con React en el front, Spring Boot en el back.
 
