@@ -1,6 +1,6 @@
 # ¡Hola! Soy Ángela Bello 
 
-Junior Full-Stack Developer enfocada en crear aplicaciones limpias, escalables y con buena experiencia de usuario. Trabajo con React en el front, Spring Boot en el back.
+Junior Full-Stack Developer enfocada en crear aplicaciones limpias, escalables y con buena experiencia de usuario. Trabajo con React en el frontend y Spring Boot en el backend.
 
 ![React](https://img.shields.io/badge/React-20232A)
 ![Vite](https://img.shields.io/badge/Vite-646CFF)
