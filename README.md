@@ -28,7 +28,7 @@ Aplicación full-stack que permite subir audios geolocalizados y visualizarlos e
 
 ### Frontend
 - React + Vite  
-- TailwindCSS + **Sass**
+- TailwindCSS + Sass
 - Leaflet (mapas)
 - Axios
 
@@ -36,7 +36,7 @@ Aplicación full-stack que permite subir audios geolocalizados y visualizarlos e
 - Java 21  
 - Spring Boot  
 - Spring Security + **JWT**
-- **MapStruct**
+- MapStruct
 - Maven
 
 ### Base de datos
@@ -44,9 +44,9 @@ Aplicación full-stack que permite subir audios geolocalizados y visualizarlos e
 - JPA / Hibernate
 
 ### Tests
-- **Backend:** **JUnit + Mockito** (tests unitarios y de servicios)
+- **Backend:** **JUnit + Mockito** (tests unitarios y de integración, cobertura del 75%)
 - **Frontend:** Vitest / Jest + React Testing Library  
-- **Validación de endpoints con Postman** (colecciones y pruebas manuales/automatizadas)
+- **Validación de endpoints con Postman** 
 
 ### 📂 Arquitectura
 - API REST
