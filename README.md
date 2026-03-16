@@ -18,7 +18,7 @@ Desarrolladora Full-Stack junior enfocada en crear aplicaciones limpias, escalab
 
 ---
 
-# 🎧 SoundMap BCN
+# SoundMap BCN
 
 Aplicación full-stack que permite subir audios geolocalizados y visualizarlos en un mapa interactivo. El usuario sube un audio y la app lo convierte en una experiencia urbana visual y sonora.
 
@@ -48,7 +48,7 @@ Aplicación full-stack que permite subir audios geolocalizados y visualizarlos e
 - **Frontend:** Vitest / Jest + React Testing Library  
 - **Validación de endpoints con Postman** 
 
-### 📂 Arquitectura
+### Arquitectura
 - API REST
 - Subida de archivos (Multipart)
 - Patrón en capas: Controller → Service → Repository
