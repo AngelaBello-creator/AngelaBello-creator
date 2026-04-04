@@ -1,6 +1,6 @@
-# Ángela Bello 
+# Ángela Bello  
 
-Desarrolladora Full-Stack junior enfocada en crear aplicaciones limpias, escalables y con buena experiencia de usuario. Trabajo con React en el frontend y Spring Boot en el backend.
+Junior Full-Stack Developer focused on building clean, scalable applications with a strong user experience. I work with React on the frontend and Spring Boot on the backend.
 
 ![React](https://img.shields.io/badge/React-20232A)
 ![Vite](https://img.shields.io/badge/Vite-646CFF)
@@ -20,44 +20,43 @@ Desarrolladora Full-Stack junior enfocada en crear aplicaciones limpias, escalab
 
 # SoundMap BCN
 
-Aplicación full-stack que permite subir audios geolocalizados y visualizarlos en un mapa interactivo. El usuario sube un audio y la app lo convierte en una experiencia urbana visual y sonora.
+Full-stack application that allows users to upload geolocated audio and visualize it on an interactive map. Users upload an audio file and the app turns it into a visual and sound-based urban experience.
 
 ---
 
-## Tecnologías
+## Technologies
 
 ### Frontend
 - React + Vite  
-- TailwindCSS + Sass
-- Leaflet (mapas)
-- Axios
+- TailwindCSS + Sass  
+- Leaflet (maps)  
+- Axios  
 
 ### Backend
 - Java 21  
 - Spring Boot  
-- Spring Security + **JWT**
-- MapStruct
-- Maven
+- Spring Security + **JWT**  
+- MapStruct  
+- Maven  
 
-### Base de datos
+### Database
 - PostgreSQL  
-- JPA / Hibernate
+- JPA / Hibernate  
 
 ### Tests
-- **Backend:** **JUnit + Mockito** (tests unitarios y de integración, cobertura del 75%)
+- **Backend:** **JUnit + Mockito** (unit and integration tests, 75% coverage)  
 - **Frontend:** Vitest / Jest + React Testing Library  
-- **Validación de endpoints con Postman** 
+- **Endpoint validation with Postman**  
 
-### Arquitectura
-- API REST
-- Subida de archivos (Multipart)
-- Patrón en capas: Controller → Service → Repository
+### Architecture
+- REST API  
+- File upload (Multipart)  
+- Layered architecture: Controller → Service → Repository  
 
 ---
 
-##  Funcionalidades principales
-- Registro y login con JWT
-- Subida de audios con geolocalización
-- Visualización en mapa dinámico
-- Consulta de audios propios
-
+## Main Features
+- Registration and login with JWT  
+- Upload of geolocated audio  
+- Visualization on a dynamic map  
+- Access to user's own audio files  
